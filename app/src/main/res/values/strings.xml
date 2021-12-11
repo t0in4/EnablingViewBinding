@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EnablingViewBinding</string>
+    <string name="no_value_string">No data</string>
+</resources>
